@@ -1,9 +1,9 @@
 /**
- * \author Bowen Judd and Kellen Auth
+ * \author *_* and Kellen Auth
  * \date October 28, 2025
  *
  * Github usernames:
- * Equinox801
+ * *_*
  * KellenAuth
  *
  * Creative Implementation:
