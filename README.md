@@ -14,7 +14,6 @@ This version features two buttons (Red and Blue) and implements a **memory chall
 - **Two-button Simon gameplay** - Red and Blue buttons with visual feedback
 - **Progressive difficulty** - Each successful round adds a new move to the sequence
 - **Speed increase** - Computer playback speeds up as the sequence grows longer
-- **Progress tracking** - Real-time progress bar shows completion percentage during your turn
 
 ### Interface
 - **Smart button states** - Buttons automatically enable/disable based on game state
@@ -43,7 +42,6 @@ This version features two buttons (Red and Blue) and implements a **memory chall
 ### Key Implementation Details
 - `QTimer::singleShot()` for timed button flashing and sequence delays
 - Dynamic stylesheet manipulation for button color changes
-- Progress bar updates synchronized with player input
 - Sequence randomization for move generation
 - Game state management (waiting, playing, player turn, game over)
 
