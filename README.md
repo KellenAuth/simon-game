@@ -102,7 +102,7 @@ make
 
 ## 👥 Development
 
-**Developer:** Kellen Auth  
+**Developer:** Kellen Auth & Other Student
 **GitHub:** [@KellenAuth](https://github.com/KellenAuth)  
 **Course:** CS 3505 - Software Practice II, University of Utah  
 **Semester:** Fall 2024
